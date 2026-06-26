@@ -11,3 +11,8 @@ wheels/
 
 # Environment variables
 .env
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
